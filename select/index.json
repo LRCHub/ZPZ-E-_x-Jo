@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "PAPERMOON",
+  "base_artist": "Tommy heavenly6",
+  "createdAt": "2025-12-30T13:38:13.158987Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Papermoon",
+      "artist": "RichaadEB feat. Lollia",
+      "has_synced": true,
+      "path": "select/01_Papermoon_RichaadEB_feat._Lollia.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Papermoon (feat. Richaadeb)",
+      "artist": "Lollia",
+      "has_synced": true,
+      "path": "select/02_Papermoon_(feat._Richaadeb)_Lollia.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Papermoon (From \"Soul Eater\")",
+      "artist": "NateWantsToBattle",
+      "has_synced": true,
+      "path": "select/03_Papermoon_(From__Soul_Eater_)_NateWantsToBattle.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Papermoon",
+      "artist": "Tommy heavenly6",
+      "has_synced": false,
+      "path": "select/04_Papermoon_Tommy_heavenly6.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "PAPERMOON",
+      "artist": "Tommy heavenly6",
+      "has_synced": true,
+      "path": "select/05_PAPERMOON_Tommy_heavenly6.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "PAPERMOON (Instrumental)",
+      "artist": "Tommy heavenly6",
+      "has_synced": false,
+      "path": "select/06_PAPERMOON_(Instrumental)_Tommy_heavenly6.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Papermoon",
+      "artist": "Tommy heavenly6",
+      "has_synced": true,
+      "path": "select/07_Papermoon_Tommy_heavenly6.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "PAPERMOON (from \"Soul Eater\")",
+      "artist": "AmaLee feat. dj-Jo",
+      "has_synced": true,
+      "path": "select/08_PAPERMOON_(from__Soul_Eater_)_AmaLee_feat._dj-Jo.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "PAPERMOON (from \"Soul Eater\")",
+      "artist": "AmaLee",
+      "has_synced": true,
+      "path": "select/09_PAPERMOON_(from__Soul_Eater_)_AmaLee.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "PAPERMOON",
+      "artist": "Tommy Heavenly6",
+      "has_synced": true,
+      "path": "select/10_PAPERMOON_Tommy_Heavenly6.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "PAPERMOON (feat. SF-A2 Miki) [dj-Jo Remix]",
+      "artist": "Dj-Jo",
+      "has_synced": true,
+      "path": "select/11_PAPERMOON_(feat._SF-A2_Miki)_[dj-Jo_Remix]_Dj-Jo.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Papermoon",
+      "artist": "Caleb Hyles feat. Family Jules",
+      "has_synced": false,
+      "path": "select/12_Papermoon_Caleb_Hyles_feat._Family_Jules.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Papermoon (feat. Family Jules)",
+      "artist": "Caleb Hyles",
+      "has_synced": false,
+      "path": "select/13_Papermoon_(feat._Family_Jules)_Caleb_Hyles.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "PAPERMOON (from \"Soul Eater\")",
+      "artist": "AmaLee/dj-Jo",
+      "has_synced": true,
+      "path": "select/14_PAPERMOON_(from__Soul_Eater_)_AmaLee_dj-Jo.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Papermoon",
+      "artist": "Lollia/RichaadEB",
+      "has_synced": true,
+      "path": "select/15_Papermoon_Lollia_RichaadEB.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "PAPERMOON (from “Soul Eater”)",
+      "artist": "AmaLee",
+      "has_synced": true,
+      "path": "select/16_PAPERMOON_(from_“Soul_Eater”)_AmaLee.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "PAPERMOON",
+      "artist": "Tommy heavenly6",
+      "has_synced": false,
+      "path": "select/pl_01_PAPERMOON_Tommy_heavenly6.txt"
+    }
+  ]
+}
